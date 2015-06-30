@@ -1,3 +1,5 @@
+[TOC]
+
 # altrun
 Automatically exported from code.google.com/p/altrun
 
