@@ -6,8 +6,12 @@ https://github.com/search?q=+journeyboy&ref=searchresults&type=Code&utf8=%E2%9C%
 
 # 编译该项目 #
 ## 环境与工具 ##
-　2007 11.0 正式名称：CodeGear RAD Studio - Delphi 2007。
-# 文件格式 #
+语言: Delphi 11.0
+IDE: CodeGear RAD Studio - Delphi 2007
+
+
+
+
 # 文件格式 #
 - Pascal语言
 - Delphi是Pascal的面向对象版
